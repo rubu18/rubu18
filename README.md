@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Rubu Basumatary, a MERN stack web developer specializing in full-stack development and leveraging technology to solve real-world problems. Currently, I am gaining hands-on experience as a web developer intern.</p>
+<p align="left">I am Rubu Basumatary, a MERN stack web developer specializing in full-stack development and leveraging technology to solve real-world problems.</p>
 
 ###
 
