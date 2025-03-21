@@ -4,7 +4,7 @@
 
 <p align="left"> 
 
-"I'm Rubu Basumatary, a passionate MERN stack web developer who thrives on building full-stack solutions that tackle real-world challenges. Currently, I'm honing my skills as a software developerat ZCSasia, turning ideas into impactful digital experiences."</p>
+"I'm Rubu Basumatary, a passionate MERN stack web developer who thrives on building full-stack solutions that tackle real-world challenges. Currently, I'm honing my skills as a Software Developer at ZCSasia, turning ideas into impactful digital experiences."</p>
 
 ###
 
