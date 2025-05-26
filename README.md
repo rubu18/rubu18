@@ -24,7 +24,6 @@
 ### 💬 Fun Facts
 - 🏆 Winner of the **"Idea Hackathon"** at DST Tech-Conclave 2023.
 - 🎯 Enjoy turning creative ideas into working web apps.
-- 😂 Once used a **shoe as a microphone** during Freshers' Day – and it worked!
 
 ---
 
