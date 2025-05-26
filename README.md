@@ -1,8 +1,5 @@
 ## Hi there 👋 I'm Rubu Basumatary
 
-Welcome to my GitHub profile!
-
-### 👨‍🎓 About Me
 - 🎓 I'm a **Computer Science Postgraduate**.
 - 💻 I'm a **MERN Stack Web Developer** with a passion for building full-stack applications.
 - 💼 Currently working at **ZCSasia** as a Web Developer.
