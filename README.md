@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rubu Basumatary
 
 - 🎓 I'm a **Computer Science Postgraduate**.
-- 💻 I'm a **MERN Stack Web Developer** with a passion for building full-stack applications.
+- 💻 A **MERN Stack Web Developer** with a passion for building full-stack applications.
 - 💼 Currently working at **ZCSasia** as a Web Developer.
 - 🔭 I’m currently working on internal tools like **Zynco**, focused on sales, franchise, and attendance management systems.
 
