@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rubu Basumatary
 
-- 🎓 I'm a **Computer Science Postgraduate**.
+- 🎓I'm a Computer Science Postgraduate and an experienced MERN Stack Web Developer. I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. With a strong foundation in both frontend and backend development, I create efficient, scalable, and user-friendly web solutions. My passion lies in solving real-world problems through technology and continuously learning to stay ahead in the ever-evolving tech landscape..
 - 💻 A **MERN Stack Web Developer** with a passion for building full-stack applications.
 - 💼 Working at **ZCSasia** as a Web Developer(Backend).
 - 🔭 I’m currently working on internal tools like **Zynco**, focused on sales, franchise, and attendance management systems.
