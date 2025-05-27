@@ -23,6 +23,7 @@
 
 ### 💬 Fun Facts
 - 🏆 Winner of the **"Idea Hackathon"** at DST Tech-Conclave 2023.
+- Web Development WBL internship at NIELIT Kokrajhar EC
 - 🎯 Enjoy turning creative ideas into working web apps.
 
 ---
