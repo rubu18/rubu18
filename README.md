@@ -2,7 +2,7 @@
 
 - 🎓 I'm a **Computer Science Postgraduate**.
 - 💻 A **MERN Stack Web Developer** with a passion for building full-stack applications.
-- 💼 Currently working at **ZCSasia** as a Web Developer.
+- 💼 Working at **ZCSasia** as a Web Developer.
 - 🔭 I’m currently working on internal tools like **Zynco**, focused on sales, franchise, and attendance management systems.
 
 ### 🌱 Currently Exploring
