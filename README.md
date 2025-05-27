@@ -11,7 +11,7 @@
 - 📈 Performance optimization and scalable backend systems
 
 ### 🛠️ Tech Stack
-- 💡 Languages: JavaScript, HTML, CSS
+- 💡 Languages: JavaScript, Scripting(HTML, CSS)
 - 🧠 Frontend: React.js, Next.js, Tailwind CSS
 - 🗄️ Backend: Node.js, Express.js
 - 🛢️ Database: MongoDB, Firebase
