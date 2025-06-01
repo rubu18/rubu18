@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rubu Basumatary
+## Hi👋 I'm Rubu Basumatary
 
 - 🎓I'm a Computer Science Postgraduate and an experienced MERN Stack Web Developer. I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. With a strong foundation in both frontend and backend development, I create efficient, scalable, and user-friendly web solutions. My passion lies in solving real-world problems through technology and continuously learning to stay ahead in the ever-evolving tech landscape..
 
@@ -19,7 +19,7 @@
 
 ### 🤝 Let's Connect
 - 👨‍💻 Open to collaborations in **Web Development** and real-world problem-solving projects.
-- 📫 Email: [rububasumatary@gmail.com](mailto:rububasumatary@gmail.com)
+- 📫 Email: [rububasumatary@gmail.com](mailto:rububasumatary381@gmail.com)
 
 ### 💬 Fun Facts
 - 🏆 Winner of the **"Idea Hackathon"** at DST Tech-Conclave 2023.
