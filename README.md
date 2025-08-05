@@ -2,9 +2,9 @@
 
 - 🎓I am a Computer Science Postgraduate and a seasoned MERN Stack Web Developer with expertise in crafting full‑stack web applications using MongoDB, Express.js, React.js, and Node.js. My strong foundation in both frontend and backend development enables me to design and deliver efficient, scalable, and user‑centric solutions tailored to modern business needs.
 
-Previously, I served as a Backend Developer at ZCSasia, where I contributed to the development of internal tools such as Zynco, focusing on sales, franchise, and attendance management systems.
+- Previously, I served as a Backend Developer at ZCSasia, where I contributed to the development of internal tools such as Zynco, focusing on sales, franchise, and attendance management systems.
 
-Currently, I work as a freelance developer, helping businesses and individuals transform ideas into robust digital products while staying up to date with emerging technologies and best practices in web development.
+- Currently, I work as a freelance developer, helping businesses and individuals transform ideas into robust digital products while staying up to date with emerging     technologies and best practices in web development.
 
 
 
