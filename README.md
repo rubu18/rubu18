@@ -1,6 +1,6 @@
 ## Hi👋 I'm Rubu Basumatary
 
-- 🎓I am a Computer Science Postgraduate and a seasoned MERN Stack Web Developer with expertise in crafting full‑stack web applications using MongoDB, Express.js, React.js, and Node.js. My strong foundation in both frontend and backend development enables me to design and deliver efficient, scalable, and user‑centric solutions tailored to modern business needs.
+- 🎓Computer Science postgraduate and MERN stack specialist with a proven track record in engineering distributed, event-driven web architectures leveraging MongoDB, Express.js, React.js, and Node.js. Expert in synthesizing responsive, component-driven interfaces with resilient, fault-tolerant backends, employing advanced state management, schema design optimization, and API orchestration. Skilled in aligning microservice-based deployments with CI/CD pipelines, cloud-native scalability principles, and performance tuning to deliver mission-critical, user-optimized digital solutions.
 
 - Previously, I served as a Backend Developer at ZCSasia, where I contributed to the development of internal tools such as Zynco, focusing on sales, franchise, and attendance management systems.
 
